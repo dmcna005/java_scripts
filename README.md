@@ -1,2 +1,2 @@
-# java_scripts
+# javaScripts
 Useful javascripts.
